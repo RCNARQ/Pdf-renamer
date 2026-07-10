@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">PDF Renamer</string>
-    <string name="app_description">Selecione uma pasta com PDFs de textos. O app lerá o título e o autor de cada arquivo e o renomeará automaticamente para "Título - Autor.pdf".</string>
-    <string name="select_folder">Selecionar pasta de PDFs</string>
-</resources>
